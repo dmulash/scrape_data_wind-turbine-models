@@ -1,6 +1,6 @@
 # Wind Turbine Scraper
 
-Scrapes wind turbine specs from \[en.wind-turbine-models.com](https://en.wind-turbine-models.com) and saves them to a CSV.
+Scrapes wind turbine specs from [en.wind-turbine-models.com](https://en.wind-turbine-models.com) and saves them to a CSV.
 
 The included `wind_turbines.csv` contains \~2,600 turbines already scraped, with fields like manufacturer, model, rated power, rotor diameter, hub height, weight breakdowns, generator/gearbox type, and more.
 
